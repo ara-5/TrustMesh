@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://open-gateway.gsma.com/docs/sim-swap/api-reference",
+    "name": "Swagger API Reference - Sim Swap - Open Gateway",
+    "snippet": "The SIM Swap API performs real-time checks on the last SIM Swap event. The SIM Swap API is useful to prevent fraud by reducing the risk of account takeover ...",
+    "host_name": "open-gateway.gsma.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://camaraproject.org/device-swap",
+    "name": "Device Swap - Camara Project",
+    "snippet": "The “Device Swap” API is designed to provide real-time insights into whether a SIM card associated with a user's phone number has been transferred to a ... Missing: specifications | Show results with: specifications",
+    "host_name": "camaraproject.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://open-gateway.gsma.com/docs/sim-swap",
+    "name": "Sim Swap - Open Gateway - GSMA",
+    "snippet": "The CAMARA SIM SWAP API empowers developers to: Verify if a SIM swap event has occurred on a mobile number. Retrieve relevant metadata about the SIM swap, such ...",
+    "host_name": "open-gateway.gsma.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.gsma.com/solutions-and-impact/gsma-open-gateway/gsma-open-gateway-api-descriptions",
+    "name": "GSMA Open Gateway API Descriptions",
+    "snippet": "Device Swap Location Verification. Allows users to verify the phone number of a connected device",
+    "host_name": "www.gsma.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://camaraproject.org/sim-swap",
+    "name": "Sim Swap - Camara Project",
+    "snippet": "The “Sim Swap” API is a service that monitors and detects changes in the SIM card associated with a mobile number. can be found on the GSMA public launch ... Missing: specifications | Show results with: specifications",
+    "host_name": "camaraproject.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]
